@@ -1,0 +1,6 @@
+ID_Regiao;Nome_Regiao;Fator_Custo
+1;Sudeste;1.0
+2;Sul;0.95
+3;Nordeste;1.15
+4;Centro-Oeste;1.05
+5;Norte;1.25

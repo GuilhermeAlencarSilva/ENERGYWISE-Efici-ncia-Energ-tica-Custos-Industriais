@@ -1,0 +1,4 @@
+ID_Turno;Nome_Turno;Fator_Eficiencia
+1;Manhã;0.9
+2;Tarde;1.0
+3;Noite;1.2
