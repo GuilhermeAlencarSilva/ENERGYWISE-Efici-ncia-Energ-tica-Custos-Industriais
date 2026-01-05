@@ -143,6 +143,8 @@ Avaliação de portfólio sênior
 
 1️⃣ Resumo Executivo Energético
 
+<img width="1010" height="799" alt="pag1" src="https://github.com/user-attachments/assets/873e179d-7f67-4710-9333-ed4114a0b8dd" />
+
 KPIs estratégicos
 
 Consumo por planta
@@ -153,6 +155,8 @@ Produção × Consumo
 
 2️⃣ Análise por Planta
 
+<img width="1012" height="798" alt="pag2" src="https://github.com/user-attachments/assets/122095ea-3386-44df-88b2-02a9d16e14f1" />
+
 Benchmark de consumo
 
 Evolução temporal
@@ -161,6 +165,8 @@ Eficiência comparativa
 
 3️⃣ Equipamentos & Turnos
 
+<img width="1014" height="798" alt="pag3" src="https://github.com/user-attachments/assets/104107f3-23e5-439d-aa0e-4d8514b3137b" />
+
 Consumo por equipamento
 
 Heatmap turno × planta
@@ -168,6 +174,8 @@ Heatmap turno × planta
 Diagnóstico operacional
 
 4️⃣ Sustentabilidade & ESG
+
+<img width="1011" height="799" alt="pag4" src="https://github.com/user-attachments/assets/b41f5f64-2d41-4ac8-9d9c-1d9177aed777" />
 
 Emissões por planta
 
